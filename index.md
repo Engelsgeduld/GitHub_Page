@@ -7,3 +7,6 @@ layout: default
 
 # Контакты
 - email: knyazev.dmitrii@05gmail.com
+
+# Oh, what we see
+- I'm using ssh connection
